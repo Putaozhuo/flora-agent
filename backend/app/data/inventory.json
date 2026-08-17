@@ -1,0 +1,59 @@
+[
+  {
+    "name": "粉玫瑰",
+    "stock": 12,
+    "unitPrice": 12,
+    "meaning": "温柔、浪漫、喜欢",
+    "colors": ["粉色"],
+    "styles": ["温柔", "浪漫", "甜美"]
+  },
+  {
+    "name": "红玫瑰",
+    "stock": 8,
+    "unitPrice": 15,
+    "meaning": "热烈、真爱、告白",
+    "colors": ["红色"],
+    "styles": ["热烈", "浪漫", "正式"]
+  },
+  {
+    "name": "香槟玫瑰",
+    "stock": 20,
+    "unitPrice": 10,
+    "meaning": "优雅、真诚、珍惜",
+    "colors": ["香槟色"],
+    "styles": ["高级", "温柔", "优雅"]
+  },
+  {
+    "name": "百合",
+    "stock": 10,
+    "unitPrice": 18,
+    "meaning": "纯洁、祝福、百年好合",
+    "colors": ["白色"],
+    "styles": ["清新", "正式", "祝福"]
+  },
+  {
+    "name": "向日葵",
+    "stock": 15,
+    "unitPrice": 9,
+    "meaning": "阳光、积极、陪伴",
+    "colors": ["黄色"],
+    "styles": ["明亮", "活力", "温暖"]
+  },
+  {
+    "name": "满天星",
+    "stock": 30,
+    "unitPrice": 3,
+    "meaning": "守护、纯洁、配角的爱",
+    "colors": ["白色"],
+    "styles": ["清新", "温柔", "配花"]
+  },
+  {
+    "name": "尤加利叶",
+    "stock": 25,
+    "unitPrice": 4,
+    "meaning": "治愈、清新、陪伴",
+    "colors": ["绿色"],
+    "styles": ["自然", "高级", "清新"]
+  }
+]
+
