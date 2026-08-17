@@ -115,10 +115,23 @@ LLM_MODEL=deepseek-ai/DeepSeek-V3
 - 确认下单按钮
 - 商家制作单
 
+## 项目截图
+
+### 初始页面
+
+![首页](docs/screenshots/01-home.png)
+
+### 生成花束方案
+
+![生成方案](docs/screenshots/02-generated-proposal.png)
+
+### 确认后生成制作单
+
+![确认制作单](docs/screenshots/03-confirmed-order.png)
+
 ## 文档
 
 - [架构与工作流说明](docs/architecture.md)
 - [LLM 接入说明](docs/llm-integration.md)
 - [MVP 接口设计](docs/mvp-api.md)
 - [简历与面试讲解稿](docs/resume-interview.md)
-
